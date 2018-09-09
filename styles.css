@@ -5,14 +5,15 @@ body   {
 	
 	   }
   
-.header-picture {
+.header-picture{
+	
     margin-top: 20px;
     margin-left: 40px;
     width: 900px;
     height: 500px;
     box-shadow: 10px 20px 10px rgba(40,40,40,.6);
     border-radius: 20px;
-	border:2px solid violet;
+    border:2px solid violet;
 }
 		
 .teffylogo{
@@ -231,13 +232,13 @@ background-image: linear-gradient(to right top, #ed465b, #ee1073, #e20092, #c500
 @media (max-width:400px){
 
 #container{
-       width:380px;
+           width:380px;
 	   background-color:#8f8a78;
 	}
 	
 .teffylogo{
 	  width: 200px;
-      height: 300px;
+          height: 300px;
 	  margin-top:-380px;
 	  margin-left:-360px;
     
@@ -292,7 +293,7 @@ nav{
 	
 	p{
 	width: 360px;
-    padding-left: 56px;
+        padding-left: 56px;
 	}
 	
 footer{
